@@ -152,3 +152,9 @@ main{
 .about-info{
     text-align: center;
 }
+.skill-container{
+    display: flex;
+    max-width: 1140px;
+    justify-content: space-between;
+    
+}
